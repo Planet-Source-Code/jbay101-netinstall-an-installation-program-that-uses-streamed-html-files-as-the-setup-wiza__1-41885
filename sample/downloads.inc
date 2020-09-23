@@ -1,0 +1,42 @@
+UL.box {
+	LIST-STYLE-IMAGE: url(/graphics/common/bullet_blue.gif)
+}
+FONT.header1 {
+	FONT-SIZE: 9pt; COLOR: #444455; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+A.noline {
+	FONT-SIZE: 8pt; COLOR: #003366; TEXT-DECORATION: none
+}
+A.footer1 {
+	FONT-SIZE: 7pt; COLOR: #003366; TEXT-DECORATION: none
+}
+FONT.header2 {
+	FONT-SIZE: 9pt; COLOR: #333344; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+FONT.content1 {
+	FONT-SIZE: 8pt; COLOR: #333344; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+FONT.content2 {
+	FONT-SIZE: 8pt; COLOR: #333344; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+FONT.content3 {
+	FONT-SIZE: 7pt; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+FONT.content4 {
+	FONT-SIZE: 8pt; COLOR: #003366; LINE-HEIGHT: 1.8; TEXT-DECORATION: none
+}
+FONT.content5 {
+	FONT-SIZE: 7pt; COLOR: #003366; LINE-HEIGHT: 1.4; TEXT-DECORATION: none
+}
+.textbox {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #ffffff
+}
+.FAQ {
+	FONT-SIZE: 8pt; CURSOR: hand; COLOR: #333344; LINE-HEIGHT: 10pt; TEXT-DECORATION: underline
+}
+.FAQB {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; MARGIN-LEFT: 1em; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.blueLabel {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #003366; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
